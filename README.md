@@ -20,6 +20,8 @@ A very basic bot to stream music from youtube on your server
 - DISCORD_PREFIX is the prefix to trigger commands
 - DISCORD_OWNER is your ID, enable Developer Mode in your client and you can copy the id when you right click on your name.
 
+3. Install dependencies:
+
 `Node.js 12 or newer is required`
 
 Since it's tough to get `sodium` and `@discordjs/opus` working, there is probably a few extra steps to install them 
