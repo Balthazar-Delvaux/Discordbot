@@ -24,7 +24,7 @@ client.registry
 
 
 client.once(`ready`, () => {
-    client.user?.setActivity(`=help`, { type: `WATCHING` });
+    client.user?.setActivity(`${process.env.DISCORD_PREFIX}help`, { type: `WATCHING` });
     console.log(`Connected as ${client.user?.tag}`);
 });
 
