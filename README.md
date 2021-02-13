@@ -4,13 +4,13 @@ A very basic bot to stream music from youtube on your server
 
 ## Features
 
-[x] Can be used to play music across multiple servers
+- [x] Can be used to play music across multiple servers
 
-[x] Storing music playlists on a local SQLite database
+- [x] Storing music playlists on a local SQLite database
 
-[x] Play, Stop and Purge commands
+- [x] Play, Stop and Purge commands
 
-[x] Written in TypeScript, using [Discord.js](https://discord.js.org/#/docs/main/stable/general/welcome) and [Commando](https://discord.js.org/#/docs/commando/master/general/welcome)
+- [x] Written in TypeScript, using [Discord.js](https://discord.js.org/#/docs/main/stable/general/welcome) and [Commando](https://discord.js.org/#/docs/commando/master/general/welcome)
 
 
 ## Installation
